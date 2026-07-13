@@ -1,0 +1,6 @@
+# Obsidian workspace settings are local to each collaborator.
+.obsidian/workspace*.json
+
+# Codex/Paperclip runtime mappings are local operational state, not design.
+.room-runtime/
+.paperclip/
