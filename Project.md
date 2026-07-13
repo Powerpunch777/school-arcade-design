@@ -37,6 +37,7 @@
 - [게임 설계서](Design/GameDesignDocument.md)
 - [화면 및 상태 흐름](Design/ScreenFlow.md)
 - [UI 와이어프레임](Design/UIWireframes.md)
+- [아트 제작 브리프](Design/ArtProductionBrief.md)
 - [제작 범위와 축소 기준](Design/ProductionScope.md)
 - [Unity 채택 결정](Decisions/0001-UseUnity.md)
 - [계획서 요약](References/OriginalPlanSummary.md)
